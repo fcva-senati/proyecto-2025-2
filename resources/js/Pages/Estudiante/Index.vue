@@ -29,6 +29,12 @@ defineProps({
                         class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">
                         Agregar
                     </Link>
+
+                    <a 
+                        href="/estudiantes/reporte/pdf" 
+                        class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
+                        PDF
+                    </a>
                 </div>
 
                 <table class="table-auto w-full border-collapse">
